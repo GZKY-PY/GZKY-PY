@@ -1,16 +1,15 @@
-### Hi there 👋
+#### 桐哥太困 ![Python](https://img.shields.io/badge/桐哥-2021-blue)👋
 
-<!--
-**GZKY-PY/GZKY-PY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🙃 当下坐标广州, 从事 Python 爬虫以及一些后端方面的工作
+- 🚀 日常使用技术栈: ![Python](https://img.shields.io/badge/Python-3.8-blue) 
+![Python](https://img.shields.io/badge/Vue-3.0-green)
+![Django](https://img.shields.io/badge/Django-3.0-brightgreen)
+![Python](https://img.shields.io/badge/FastApi-latest-yellow) 
+![Python](https://img.shields.io/badge/Mysql-5.7-blue) 
+![Python](https://img.shields.io/badge/Docker-latest-orange) 
+![Python](https://img.shields.io/badge/Scrapy-2.3.0-blue)
+- 🤔 个人小站点 [太困](http://159.75.96.72/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![github stats](https://github-readme-stats.vercel.app/api?username=PY-GZKY&show_icons=true)](https://github.com/PY-GZKY)
+
